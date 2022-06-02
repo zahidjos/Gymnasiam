@@ -1,0 +1,616 @@
+@media(min-width: 1200px) and (max-width:1399.98px) {}
+
+@media(min-width: 992px) and (max-width:1199.98px) {}
+
+@media(min-width: 766px) and (max-width:991.98px) {
+    
+    /* menu part start */
+    .menu_bar .navbar-brand {
+        width: 169px;
+        height: 60px;
+
+        line-height: 45px;
+
+    }
+
+    .menu_bar {
+        top: -6px;
+    }
+
+    .menu_bar .navbar-toggler i {
+        font-size: 30px;
+        color: white;
+    }
+
+    element.style {}
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .menu_bar ul li a:hover {
+
+        border-bottom: 0px solid transparent;
+    }
+
+    .menu_bar ul li a {
+        width: 100%;
+        text-align: center;
+        background-color: #e23e38;
+    }
+
+    /* menu part end */
+
+    /* banner part start */
+    .banner_text h2::after,
+    .banner_text h2::before {
+        background: transparent;
+    }
+
+    .banner_text h1::after,
+    .banner_text h1::before {
+        background: transparent;
+    }
+
+    .banner_text p::after,
+    .banner_text p::before {
+        background: transparent;
+    }
+
+    .banner_img {
+        padding: 115px 0px 53px 0;
+
+    }
+
+    .banner_text h2 {
+        font-size: 26px;
+
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+    }
+
+
+    .banner_text a {
+        line-height: 30px;
+        font-size: 13px;
+        margin-left: 20px;
+    }
+
+    .banner .slick-dots li button {
+        height: 15px;
+        width: 15px;
+    }
+
+
+    /* banner part end */
+
+    /* about part start */
+    .about_part{
+        padding: 40px 0;
+    }
+    .about_text{
+        order: 1;
+    }
+    .about_img {
+        order: 2;
+    }
+
+    /* about part end */
+
+    /* gallery part start */
+    .gal_col {
+        margin-bottom: 30px;
+    }
+    .gal_col:last-child{
+        margin-bottom: 0px;
+    }
+    .gal_img .overly{
+       
+        transform: scale(1);
+    }
+
+    /* gallery part end */
+
+     /* team part start */
+     .team_part{
+        padding-top: 40px ;
+    }
+    .team_pic {
+        padding-top: 25px;
+    }
+    .team_text p {
+       
+        transform: scale(1);
+       
+    }
+    .team_col:hover{
+        transform: translateY(0px);
+    }
+    .team_col .team_img .overly{
+        transform: scale(1);
+    }
+
+
+    /* team part end */
+
+    /* testimonial part start */
+
+      .test_head,
+      .test_text{
+       padding-left: 20px;
+      }
+      .testimonial_text {
+        
+        padding: 30px 0 42px 0;
+      
+    }
+    .testimonial_part{
+        padding-bottom: 40px;
+    }
+    .text_slide ul {
+         bottom: -30px;
+       }
+    .text_slide ul li button {
+        
+        height: 15px;
+        width: 15px;
+       
+    }
+    /* testimonial part end */
+
+    /* member part start */
+  .col_part{
+      margin-bottom: 20px;
+  }
+  .member_part{
+    padding-bottom: 40px;
+}
+.col_part ul li{
+     margin-bottom: 15px;
+}
+.col_part h4{
+    background-color: #e23e38;
+    color: #ffffff
+}
+.col_part a{
+    background-color: #e23e38;
+    color: #ffffff  
+}
+
+    /* member part end */
+
+/* class part start */
+.nav_head{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 !important;
+}
+    .nav_head  li{
+        width: 32.66%;
+        text-align: center;
+        background-color: #f1f1f1;
+        line-height: 50px;
+        margin-bottom: 5px;
+       }
+
+       .count_text li:nth-child(1),
+.count_text li:nth-child(6){
+    margin-left: 5px;
+}
+.count_text li{
+    width: 47.9%;
+  
+}
+
+}
+
+@media(min-width: 576px) and (max-width:765.98px) {
+    
+    /* menu part start */
+    .menu_bar .navbar-brand {
+        width: 169px;
+        height: 60px;
+
+        line-height: 45px;
+
+    }
+
+    .menu_bar {
+        top: -6px;
+    }
+
+    .menu_bar .navbar-toggler i {
+        font-size: 30px;
+        color: white;
+    }
+
+    element.style {}
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .menu_bar ul li a:hover {
+
+        border-bottom: 0px solid transparent;
+    }
+
+    .menu_bar ul li a {
+        width: 100%;
+        text-align: center;
+        background-color: #e23e38;
+    }
+
+    /* menu part end */
+
+    /* banner part start */
+    .banner_text h2::after,
+    .banner_text h2::before {
+        background: transparent;
+    }
+
+    .banner_text h1::after,
+    .banner_text h1::before {
+        background: transparent;
+    }
+
+    .banner_text p::after,
+    .banner_text p::before {
+        background: transparent;
+    }
+
+    .banner_img {
+        padding: 115px 0px 53px 0;
+
+    }
+
+    .banner_text h2 {
+        font-size: 26px;
+
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+    }
+
+
+    .banner_text a {
+        line-height: 30px;
+        font-size: 13px;
+        margin-left: 20px;
+    }
+
+    .banner .slick-dots li button {
+        height: 15px;
+        width: 15px;
+    }
+
+
+    /* banner part end */
+
+    /* about part start */
+    .about_part{
+        padding: 40px 0;
+    }
+    .about_text{
+        order: 1;
+    }
+    .about_img {
+        order: 2;
+    }
+
+    /* about part end */
+
+    /* gallery part start */
+    .gal_col {
+        margin-bottom: 30px;
+    }
+    .gal_col:last-child{
+        margin-bottom: 0px;
+    }
+    .gal_img .overly{
+       
+        transform: scale(1);
+    }
+
+    /* gallery part end */
+
+     /* team part start */
+     .team_part{
+        padding-top: 40px ;
+    }
+    .team_pic {
+        padding-top: 25px;
+    }
+    .team_text p {
+       
+        transform: scale(1);
+       
+    }
+    .team_col:hover{
+        transform: translateY(0px);
+    }
+    .team_col .team_img .overly{
+        transform: scale(1);
+    }
+
+
+    /* team part end */
+
+    /* testimonial part start */
+
+      .test_head,
+      .test_text{
+       padding-left: 20px;
+      }
+      .testimonial_text {
+        
+        padding: 30px 0 42px 0;
+      
+    }
+    .testimonial_part{
+        padding-bottom: 40px;
+    }
+    .text_slide ul {
+         bottom: -30px;
+       }
+    .text_slide ul li button {
+        
+        height: 15px;
+        width: 15px;
+       
+    }
+    /* testimonial part end */
+
+    /* member part start */
+  .col_part{
+      margin-bottom: 20px;
+  }
+  .member_part{
+    padding-bottom: 40px;
+}
+.col_part ul li{
+     margin-bottom: 15px;
+}
+.col_part h4{
+    background-color: #e23e38;
+    color: #ffffff
+}
+.col_part a{
+    background-color: #e23e38;
+    color: #ffffff  
+}
+
+    /* member part end */
+
+/* class part start */
+.nav_head{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 !important;
+}
+    .nav_head  li{
+        width: 32.66%;
+        text-align: center;
+        background-color: #f1f1f1;
+        line-height: 50px;
+        margin-bottom: 5px;
+       }
+
+       .count_text li:nth-child(1),
+.count_text li:nth-child(6){
+    margin-left: 5px;
+}
+.count_text li{
+    width: 47.9%;
+  
+}
+ 
+}
+
+
+@media(max-width:575.98px) {
+
+    /* menu part start */
+    .menu_bar .navbar-brand {
+        width: 169px;
+        height: 60px;
+
+        line-height: 45px;
+
+    }
+
+    .menu_bar {
+        top: -6px;
+    }
+
+    .menu_bar .navbar-toggler i {
+        font-size: 30px;
+        color: white;
+    }
+
+  
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .menu_bar ul li a:hover {
+
+        border-bottom: 0px solid transparent;
+    }
+
+    .menu_bar ul li a {
+        width: 100%;
+        text-align: center;
+        background-color: #e23e38;
+    }
+
+    /* menu part end */
+
+    /* banner part start */
+    .banner_text h2::after,
+    .banner_text h2::before {
+        background: transparent;
+    }
+
+    .banner_text h1::after,
+    .banner_text h1::before {
+        background: transparent;
+    }
+
+    .banner_text p::after,
+    .banner_text p::before {
+        background: transparent;
+    }
+
+    .banner_img {
+        padding: 115px 0px 53px 0;
+
+    }
+
+    .banner_text h2 {
+        font-size: 26px;
+
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+    }
+
+
+    .banner_text a {
+        line-height: 30px;
+        font-size: 13px;
+        margin-left: 20px;
+    }
+
+    .banner .slick-dots li button {
+        height: 15px;
+        width: 15px;
+    }
+
+
+    /* banner part end */
+
+    /* about part start */
+    .about_part{
+        padding: 40px 0;
+    }
+    .about_text{
+        order: 1;
+    }
+    .about_img {
+        order: 2;
+    }
+
+    /* about part end */
+
+    /* gallery part start */
+    .gal_col {
+        margin-bottom: 30px;
+    }
+    .gal_col:last-child{
+        margin-bottom: 0px;
+    }
+    .gal_img .overly{
+       
+        transform: scale(1);
+    }
+
+    /* gallery part end */
+
+     /* team part start */
+     .team_part{
+        padding-top: 40px ;
+    }
+    .team_pic {
+        padding-top: 25px;
+    }
+    .team_text p {
+       
+        transform: scale(1);
+       
+    }
+    .team_col:hover{
+        transform: translateY(0px);
+    }
+    .team_col .team_img .overly{
+        transform: scale(1);
+    }
+
+
+    /* team part end */
+
+    /* testimonial part start */
+
+      .test_head,
+      .test_text{
+       padding-left: 20px;
+      }
+      .testimonial_text {
+        
+        padding: 30px 0 42px 0;
+      
+    }
+    .testimonial_part{
+        padding-bottom: 40px;
+    }
+    .text_slide ul {
+         bottom: -30px;
+       }
+    .text_slide ul li button {
+        
+        height: 15px;
+        width: 15px;
+       
+    }
+    /* testimonial part end */
+
+    /* member part start */
+  .col_part{
+      margin-bottom: 20px;
+  }
+  .member_part{
+    padding-bottom: 40px;
+}
+.col_part ul li{
+     margin-bottom: 15px;
+}
+.col_part h4{
+    background-color: #e23e38;
+    color: #ffffff
+}
+.col_part a{
+    background-color: #e23e38;
+    color: #ffffff  
+}
+
+    /* member part end */
+
+/* class part start */
+.nav_head{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 !important;
+}
+    .nav_head  li{
+        width: 32.66%;
+        text-align: center;
+        background-color: #f1f1f1;
+        line-height: 50px;
+        margin-bottom: 5px;
+       }
+
+       .count_text li:nth-child(1),
+.count_text li:nth-child(6){
+    margin-left: 5px;
+}
+.count_text li{
+    width: 47.9%;
+  
+}
+/* class part end */
+}

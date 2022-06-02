@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?4216c71daf14dba9833ead85087b06d7") format("truetype"),
+url("./flaticon.woff?4216c71daf14dba9833ead85087b06d7") format("woff"),
+url("./flaticon.woff2?4216c71daf14dba9833ead85087b06d7") format("woff2"),
+url("./flaticon.eot?4216c71daf14dba9833ead85087b06d7#iefix") format("embedded-opentype"),
+url("./flaticon.svg?4216c71daf14dba9833ead85087b06d7#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-man-lifting-weight:before {
+    content: "\f101";
+}
+.flaticon-exercising-man:before {
+    content: "\f102";
+}
+.flaticon-man-lifting-weights:before {
+    content: "\f103";
+}
+.flaticon-abdominal-exercise:before {
+    content: "\f104";
+}
+.flaticon-man-exercising-back-and-legs:before {
+    content: "\f105";
+}
+.flaticon-weightlifting:before {
+    content: "\f106";
+}
+.flaticon-weightlifting-1:before {
+    content: "\f107";
+}
+.flaticon-exercise:before {
+    content: "\f108";
+}
+.flaticon-stretching:before {
+    content: "\f109";
+}
+.flaticon-jumping-rope:before {
+    content: "\f10a";
+}
